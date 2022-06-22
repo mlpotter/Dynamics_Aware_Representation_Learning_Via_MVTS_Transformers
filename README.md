@@ -4,4 +4,5 @@ This repo is the research implementation of the following paper:
 * Refer to https://github.com/mlpotter/DeepKoopmanLusch for Lusch et al and Geneva et al models/implementation.
 * Refer to https://github.com/gzerveas/mvts_transformer for Zerveas et al Transformer Classifier baseline.
 
+Code is messy, this is for research purposes.
 
